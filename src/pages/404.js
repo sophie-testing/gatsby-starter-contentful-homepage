@@ -13,7 +13,7 @@ export default function NotFound() {
             <Heading variant="mega" className={styles.heading}>
               404
             </Heading>
-            <Heading as="h1">Page not found</Heading>
+            <Heading as="h1">Page not found!</Heading>
             <Flex variant="column" gap={0}>
               <Text variant="lead" className={styles.text}>
                 Sorry! We couldn’t find the page you were looking for.
