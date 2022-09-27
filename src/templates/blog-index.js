@@ -31,6 +31,9 @@ function PostCard({ slug, image, title, excerpt, author, category, ...props }) {
         <Text variant="bold">
           <div>By {author.name}</div>
         </Text>
+        <Text variant="bold">
+          <div>By {author.name}</div>
+        </Text>
       )}
     </BlockLink>
   )
