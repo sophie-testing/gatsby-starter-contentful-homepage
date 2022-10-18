@@ -1,7 +1,7 @@
 <a href="https://www.gatsbyjs.com">
   <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
 </a>
-// testing a change
+
 # Gatsby Starter Contentful Homepage
 
 Create a homepage using Gatsby and Contentful. This starter demonstrates how to use Contentful to build a homepage and can be customized to match your own visual branding.
